@@ -6,5 +6,4 @@ if currentLight == "red":
     print("STOP!")
 elif currentLight == "yellow":
     print("READY!")
-else: 
-    print("GO!")
+
